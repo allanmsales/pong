@@ -1,0 +1,6 @@
+gym
+gym[accept-rom-license, atari]
+gym[atari]
+keras
+tensorflow
+opencv-python
